@@ -1,0 +1,12 @@
+body{
+  background-color: #96bb7c;
+}
+
+.content{
+  margin: auto 50px;
+  height: 500px;
+}
+
+.navbar{
+  background-color: transparent;
+}
